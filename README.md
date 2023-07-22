@@ -6,7 +6,7 @@
 ### ***<div align="center"> 👋I'm Pankaj Vishwakarma, a full-time web developer 👨‍💻</div>***  
   
 
-- 🔭 I’m currently working on [Ojas Enterprise web developer ](https://github.com/Pankaj2130/github-profilinator)  
+- 🔭 I’m currently working on [ebrandz LPP web developer ](https://github.com/Pankaj2130/github-profilinator)  
   
 
 - 🌱 I’m currently learning Nodejs, ASP.NET, MongoDB.  
